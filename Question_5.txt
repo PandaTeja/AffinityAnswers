@@ -1,0 +1,11 @@
+How much of Unix command line are you familiar with? Give some examples.
+ls - lists your files
+ls -l - lists your files in 'long format', which contains lots of useful information, 
+ls -a - lists all files, including the ones whose filenames begin in a dot, which you do not always want to see.
+mkdir dirname - make a new directory
+cd dirname - change directory.
+more filename - shows the first part of a file, just as much as will fit on one screen. Just hit the space bar to see more or q to quit. You can use /pattern to search for a pattern.
+emacs filename - is an editor that lets you create and edit a file. See the emacs page.
+mv filename1 filename2 -moves a file (i.e. gives it a different name, or moves it into a different directory (see below)
+cp filename1 filename2 -copies a file
+rm filename - removes a file.
