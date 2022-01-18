@@ -1,0 +1,5 @@
+what do these numbers mean to you?404,403,500,502
+ 404-Not Found
+ 403-Forbidden
+ 500-Internal Server Error 
+ 502-Bad Gateway
